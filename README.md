@@ -13,11 +13,11 @@ Python (Pandas) for validation and generating results
 
 📂 Deliverables
 
-SQL Script → task6_sales_trend_analysis.sql
+SQL Script → SQL Query.sql
 
 Contains SQL queries for monthly revenue and order volume analysis.
 
-Results Table → task6_results_table.csv
+Results Table → results_table.csv
 
 Summarized table with year, month, total revenue, and order volume.
 
